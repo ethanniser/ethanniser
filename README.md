@@ -11,6 +11,7 @@ im a senior in hs
 - tRPC
 - Effect-ts
 - Drizzle
+- Rust
 
 ## Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ethanniser) 
