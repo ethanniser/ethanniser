@@ -9,6 +9,8 @@ im a senior in hs
 - NextJS
 - Tailwind
 - tRPC
+
+- Bun
 - Effect-ts
 - Drizzle
 - Rust
