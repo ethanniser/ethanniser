@@ -2,6 +2,8 @@
 
 im a senior in hs
 
+CEO of The BETH Stack
+
 # Tech I Like
 
 - TypeScript
@@ -9,11 +11,11 @@ im a senior in hs
 - NextJS
 - Tailwind
 - tRPC
-
 - Bun
 - Effect-ts
 - Drizzle
 - Rust
+- HTMX
 
 ## Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ethanniser) 
