@@ -1,8 +1,6 @@
-***web dev***
+***statically typed***
 
-im a senior in hs
-
-CEO of The BETH Stack
+senior in hs
 
 # Tech I Like
 
@@ -16,6 +14,7 @@ CEO of The BETH Stack
 - Drizzle
 - Rust
 - HTMX
+- Bevy
 
 ## Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ethanniser) 
